@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sagar Joshi</h1>
 <h3 align="center">A passionate developer and designer passionate about crafting intuitive web and mobile experiences.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joceesagar&label=Profile%20views&color=0e75b6&style=flat" alt="joceesagar" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://portfolio-inky-three-14.vercel.app/](https://portfolio-inky-three-14.vercel.app/)
 
 - 📫 How to reach me **joshisagarm2@gmail.com**
@@ -21,3 +19,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joceesagar&show_icons=true&locale=en" alt="joceesagar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joceesagar&" alt="joceesagar" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joceesagar&label=Profile%20views&color=0e75b6&style=flat" alt="joceesagar" /> </p>
